@@ -48,7 +48,7 @@
     "@types/chai": "~4.1.7",
     "@types/glob": "~7.1.1",
     "@types/hapi__boom": "~7.4.0",
-    "@types/hapi__hapi": "~18.2.4",
+    "@types/hapi__hapi": "~18.2.5",
     "@types/jest": "~24.0.15",
     "@types/lodash": "~4.14.134",
     "@types/pino": "~5.8.8",
