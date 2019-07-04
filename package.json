@@ -15,7 +15,9 @@
     "start": "node dist/server.js | pino-colada",
     "test": "jest",
     "updateCOC": "weallbehave -o . && git add CODE_OF_CONDUCT.md && git commit -m 'docs(coc): updated CODE_OF_CONDUCT.md'",
-    "updateContrib": "weallcontribute -o . && git add CONTRIBUTING.md && git commit -m 'docs(contributing): updated CONTRIBUTING.md'"
+    "updateContrib": "weallcontribute -o . && git add CONTRIBUTING.md && git commit -m 'docs(contributing): updated CONTRIBUTING.md'",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "repository": {
     "type": "git",
@@ -41,7 +43,8 @@
     "lodash": "~4.17.11",
     "make-promises-safe": "~5.0.0",
     "pino": "~5.12.6",
-    "pino-colada": "~1.4.5"
+    "pino-colada": "~1.4.5",
+    "snyk": "^1.189.0"
   },
   "devDependencies": {
     "@types/bluebird": "~3.5.27",
@@ -74,5 +77,6 @@
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
     }
-  }
+  },
+  "snyk": true
 }
