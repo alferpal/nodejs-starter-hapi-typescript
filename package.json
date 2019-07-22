@@ -53,7 +53,7 @@
     "@types/lodash": "~4.14.136",
     "@types/pino": "~5.8.8",
     "chai": "~4.2.0",
-    "commitizen": "~3.1.1",
+    "commitizen": "~4.0.3",
     "concurrently": "~4.1.1",
     "cz-conventional-changelog": "~2.1.0",
     "husky": "~3.0.1",
