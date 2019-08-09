@@ -45,7 +45,7 @@
   },
   "devDependencies": {
     "@types/bluebird": "~3.5.27",
-    "@types/chai": "~4.1.7",
+    "@types/chai": "~4.2.0",
     "@types/glob": "~7.1.1",
     "@types/hapi__boom": "~7.4.0",
     "@types/hapi__hapi": "~18.2.5",
