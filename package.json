@@ -32,7 +32,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@hapi/boom": "~7.4.2",
+    "@hapi/boom": "~7.4.3",
     "@hapi/hapi": "~18.3.1",
     "blipp": "~4.0.0",
     "bluebird": "~3.5.5",
