@@ -51,7 +51,7 @@
     "@types/hapi__hapi": "~18.2.5",
     "@types/jest": "~24.0.17",
     "@types/lodash": "~4.14.136",
-    "@types/pino": "~5.8.8",
+    "@types/pino": "~5.8.9",
     "chai": "~4.2.0",
     "commitizen": "~4.0.3",
     "concurrently": "~4.1.1",
