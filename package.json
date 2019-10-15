@@ -44,7 +44,7 @@
     "hapi-pino": "~6.2.0",
     "lodash": "~4.17.15",
     "make-promises-safe": "~5.1.0",
-    "pino": "~5.13.4",
+    "pino": "~5.13.5",
     "pino-colada": "~1.4.5"
   },
   "devDependencies": {
