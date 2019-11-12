@@ -48,7 +48,7 @@
     "pino-colada": "~1.5.0"
   },
   "devDependencies": {
-    "@types/bluebird": "~3.5.28",
+    "@types/bluebird": "~3.5.29",
     "@types/chai": "~4.2.4",
     "@types/glob": "~7.1.1",
     "@types/hapi__hapi": "~18.2.6",
