@@ -37,7 +37,7 @@
     "blipp": "~4.0.1",
     "bluebird": "~3.7.2",
     "glob": "~7.1.6",
-    "hapi-pino": "~8.2.0",
+    "hapi-pino": "~8.3.0",
     "lodash": "~4.17.20",
     "make-promises-safe": "~5.1.0",
     "pino": "~6.5.1",
