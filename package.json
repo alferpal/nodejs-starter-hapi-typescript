@@ -47,7 +47,7 @@
     "@types/bluebird": "~3.5.32",
     "@types/glob": "~7.1.3",
     "@types/hapi__hapi": "~20.0.1",
-    "@types/jest": "~26.0.14",
+    "@types/jest": "~26.0.15",
     "@types/lodash": "~4.14.162",
     "@types/pino": "~6.3.2",
     "@typescript-eslint/eslint-plugin": "~1.13.0",
