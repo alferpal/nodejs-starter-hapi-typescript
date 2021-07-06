@@ -50,7 +50,7 @@
     "@types/jest": "~26.0.23",
     "@types/lodash": "~4.14.170",
     "@types/pino": "~6.3.8",
-    "@typescript-eslint/eslint-plugin": "~4.28.1",
+    "@typescript-eslint/eslint-plugin": "~4.28.2",
     "@typescript-eslint/parser": "~4.28.2",
     "commitizen": "~4.2.4",
     "concurrently": "~6.2.0",
