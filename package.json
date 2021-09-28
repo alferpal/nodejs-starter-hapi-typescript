@@ -48,7 +48,7 @@
     "@types/glob": "~7.1.4",
     "@types/hapi__hapi": "~20.0.9",
     "@types/jest": "~27.0.2",
-    "@types/lodash": "~4.14.174",
+    "@types/lodash": "~4.14.175",
     "@types/pino": "~6.3.11",
     "@typescript-eslint/eslint-plugin": "~4.31.2",
     "@typescript-eslint/parser": "~4.31.2",
