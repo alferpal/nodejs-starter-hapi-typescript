@@ -49,7 +49,7 @@
     "@types/hapi__hapi": "~20.0.9",
     "@types/jest": "~27.0.2",
     "@types/lodash": "~4.14.175",
-    "@types/pino": "~6.3.11",
+    "@types/pino": "~6.3.12",
     "@typescript-eslint/eslint-plugin": "~4.33.0",
     "@typescript-eslint/parser": "~4.33.0",
     "commitizen": "~4.2.4",
