@@ -41,7 +41,7 @@
     "lodash": "~4.17.21",
     "make-promises-safe": "~5.1.0",
     "pino": "~7.5.1",
-    "pino-colada": "~2.2.0"
+    "pino-colada": "~2.2.2"
   },
   "devDependencies": {
     "@types/bluebird": "~3.5.36",
