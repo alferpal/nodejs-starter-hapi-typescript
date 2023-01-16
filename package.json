@@ -36,7 +36,7 @@
     "@hapi/hapi": "~21.1.0",
     "blipp": "~4.0.2",
     "bluebird": "~3.7.2",
-    "glob": "~8.0.3",
+    "glob": "~8.1.0",
     "hapi-pino": "~11.0.1",
     "lodash": "~4.17.21",
     "make-promises-safe": "~5.1.0",
