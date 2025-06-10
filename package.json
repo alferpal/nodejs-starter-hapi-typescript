@@ -51,7 +51,7 @@
     "@types/lodash": "~4.17.17",
     "@types/pino": "~7.0.5",
     "@typescript-eslint/eslint-plugin": "~8.34.0",
-    "@typescript-eslint/parser": "~8.33.1",
+    "@typescript-eslint/parser": "~8.34.0",
     "commitizen": "~4.3.1",
     "concurrently": "~9.1.2",
     "cz-conventional-changelog": "~3.3.0",
